@@ -7,12 +7,6 @@ SaveWise is a Java Swing-based desktop application that helps users track their 
 1. Clone the repository
 2. Open in IntelliJ IDEA
 3. Run SavingsGoalTracker.java
-
-## Future Enhancements
-- Dark mode support
-- Savings history tracking
-- Monthly savings analysis
-- Export reports
   
 ## Features
 - Set a savings goal
@@ -21,6 +15,12 @@ SaveWise is a Java Swing-based desktop application that helps users track their 
 - Percentage calculation
 - Input validation
 - User-friendly GUI
+  
+  ## Future Enhancements
+- Dark mode support
+- Savings history tracking
+- Monthly savings analysis
+- Export reports
 
 ## Technologies Used
 - Java
