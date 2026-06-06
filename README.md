@@ -15,8 +15,8 @@ SaveWise is a Java Swing-based desktop application that helps users track their 
 - Percentage calculation
 - Input validation
 - User-friendly GUI
-  
-  ## Future Enhancements
+
+ ## Future Enhancements
 - Dark mode support
 - Savings history tracking
 - Monthly savings analysis
