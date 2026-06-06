@@ -17,5 +17,9 @@ SaveWise is a Java Swing-based desktop application that helps users track their 
 - Event Handling
 - Exception Handling
 
+## Screenshot
+
+![SaveWise Screenshot](screenshot.png)
+
 ## Author
 Chethana M M
